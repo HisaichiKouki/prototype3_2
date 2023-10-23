@@ -10,6 +10,7 @@ const char kWindowTitle[] = "LC1A_20_ヒサイチ_コウキ";
 float clump(float a, float min, float max);
 
 
+
 // Windowsアプリでのエントリーポイント(main関数)
 int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 
